@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<allthecontent xmlns="http://www.allthecontent.com/xml/delivery/generic/contents" version="1.0" created="2014-01-24T17:00:31.520+01:00">
+    <content uid="032a8bb0-3ea5-4d5a-972a-510ad1509b84">
+        <title>Une distribution musclée!</title>
+        <description>Chuck Norris et Jean-Claude Van Damme ont rejoint le casting d'"Expendables 2", suite dans laquelle les rôles campés par Arnold Schwarzenegger et Bruce Willis seront plus importants.</description>
+        <credits>YCH/ATCNA</credits>
+        <pubdate>2014-01-24T17:00:31.520+01:00</pubdate>
+        <lang code="fr">French</lang>
+        <contenttype code="news">News</contenttype>
+        <coremedia code="text">Text</coremedia>
+        <format code="text_full">Full</format>
+        <theme code="cinema">Cinema &amp; Movies</theme>
+        <theme code="cinema2">Cinema &amp; Movies 2</theme>
+        <theme code="cinema3">Cinema &amp; Movies 3</theme>
+        <license>
+            <modification allowed="false"/>
+            <multimediatisation allowed="false"/>
+            <localisation allowed="false"/>
+            <distribution allowed="false"/>
+        </license>
+        <keywords>
+            <value>Sylvester Stallone</value>
+            <value>Action</value>
+            <value>Arnold Schwarzenegger</value>
+            <value>Chuck Norris</value>
+            <value>Claude Van Damme</value>
+            <value>Bruce Willis</value>
+            <value>Expendables</value>
+            <value>bruce</value>
+            <value>casting</value>
+            <value>distribution</value>
+            <value>willis</value>
+        </keywords>
+        <tag code="origin" name="Origin">
+            <value>US</value>
+        </tag>
+        <tag code="actors" name="Actors">
+            <value>Chuck Norris</value>
+            <value>Jean-Claude Van Damme</value>
+            <value>Arnold Schwarzenegger</value>
+            <value>bruce willis</value>
+            <value>Sylvester Stallone</value>
+        </tag>
+        <tag code="director" name="Director">
+            <value>Sylvester Stallone</value>
+        </tag>
+        <tag code="genre" name="Genre">
+            <value>Action</value>
+        </tag>
+        <tag code="characters" name="Chars">
+            <value>865</value>
+        </tag>
+        <tag code="words" name="Words">
+            <value>139</value>
+        </tag>
+        <link url="http://fr.wikipedia.org/wiki/Expendables_2">"Expendables 2" sur Wikipédia</link>
+        <attachment uid="886d327d-856c-4351-b145-47e24145a601" type="illustration" format="picture" mimetype="image/jpeg" filename="52e28e1febb2854aa29eef56_52e28defebb2854aa29eef1e.jpg">
+            <description>Bruce Willis</description>
+            <credits>DR</credits>
+        </attachment>
+        <item uid="138af39e-e888-49be-9baa-2815fe2f49fe" mimetype="text/plain" filename="52e28e1febb2854aa29eef56_52e28defebb2854aa29eef1b.txt"/>
+    </content>
+</allthecontent>
