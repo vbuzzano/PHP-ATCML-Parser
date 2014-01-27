@@ -5,7 +5,7 @@
  * @author Vincent Buzzano, ATC Future Medias SA
  * @version 1.0 - 2014-01-27 
  */
-class ATCML {
+class ATCMLParser {
 
   /**
    * Parse Content
