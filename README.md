@@ -1,4 +1,3 @@
-# What
 The purpose of this PHP Class is to provide an example and a help to parse an ATCML file to process an ATCNA newswire.
 
 #How to use
